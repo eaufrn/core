@@ -10,6 +10,9 @@ Vídeos iniciais que, para não ter que repetir sempre a mesma mensagem ao manda
 - Clay Shirky, vídeo: [How the Internet will (one day) transform government](https://youtu.be/CEN4XNth61o), tempo: 19 minutos.
 
 - Jim Zemlin, vídeo: [What the Tech Industry Has Learned from Linus Torvalds: Jim Zemlin at TEDxConcordiaUPortland](https://www.youtube.com/watch?v=7XTHdcmjenI), tempo: 18 minutos.
+
 - Abhishek Bajpayee, vídeo: [Why open source is critical to innovation in science | Abhishek Bajpayee | TEDxBeaconStreet](https://www.youtube.com/watch?v=g5vuVLaXIHg), tempo: 12 minutos.
 
-Ou seja, um total de: 14 + 19 + 18 + 12 = 63 minutos.
+- Álvaro Justen, vídeo: [[PyBR14] Brasil.IO: Dados abertos para mais democracia - Álvaro Justen](https://www.youtube.com/watch?v=MZZFmucRxoY), tempo: 24 minutos.
+
+Ou seja, um total de: 14 + 19 + 18 + 12 + 24 = 87 minutos (um jogo de futebol).
