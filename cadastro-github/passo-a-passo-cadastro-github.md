@@ -190,17 +190,20 @@ Clique em `Carregar uma foto` (esta em azul).
 
 
 ### Tela 8, parte 3:
-Note: deveria ter mais prints, mas o print não capturou(a?) a "caixa" que se abre para que seja inserida a imagem. Além disso o print não capturou a parte em que se recorta a imagem.
 
-Vc deve ser a sua foto inserida e cortada, e a mensagem em azul mostrada! 
+Você deve ver a sua foto inserida e cortada, e a mensagem em azul mostrada! 
+
+<img src="prints/Captura de Tela (33).png">
+
+Note: deveria ter mais prints, mas o print não capturou(a?) a "caixa" que se abre para que seja inserida a imagem. Além disso o print não capturou a parte em que se recorta a imagem.
 
 O que você faz depois daqui? Clique para ir para o seu perfil inicial e explore um pouco o github!
 
-Bom existem muitas coisas que já podem ser feitas, imagine que seja como um facebook, ou seja, você acabou de se cadastrar existem muitas coisas que já pode ser feitas. 
+Bom existem muitas coisas que já podem ser feitas, imagine que seja como um facebook, ou seja, você acabou de se cadastrar e existem muitas coisas que já pode ser feitas. 
 
 Bom, acho que já é suficiente.
 
-
+**Fim**
 
 ## Extras
 
