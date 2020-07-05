@@ -66,39 +66,59 @@ Leia. Basta clicar nas setas curvas, elas vão girar a imagem.
 
 
 ### Tela 2, parte 8:
-Quando você for rápido e fizer certo, deverá ver a imagem a seguir.
 
-Outro problema **Danilo**. Acho que precisa o que deve ser feito depois dessa tela é ir verificar o e-mail, como a mensagem na tela sugere (sugere, mas não obriga a ir verificar o e-mail).
+Quando você for rápido e fizer certo, deverá ver a imagem a seguir.
 <img src="prints/Captura de Tela (13).png">
 
 
 ### Tela 3, parte 1:
+
+Escolher o que mais se encaixa com você.
+
+**Danilo**, note que quem fez não printou qual escolheu. Acho que isso deve ser melhorado (sim, o perfecionismo me consome kkkkkk).
+
 <img src="prints/Captura de Tela (14).png">
 
 
-### Tela 3, parte 2:
+### Tela 3, parte 2: (por completude)
+
+Escolher o que mais se encaixa com você.
+
+**Danilo**, mesmo caso do anterior.
 <img src="prints/Captura de Tela (16).png">
 
 
-### Tela 3, parte 3:
+### Tela 3, parte 3: (por completude)
+
+Escolher o que mais se encaixa com você.
+
+**Danilo**, mesmo caso do anterior.
 <img src="prints/Captura de Tela (17).png">
 
-### Tela 3, parte 4:
+### Tela 3, parte 4: (por completude)
+
+Escolher o que mais se encaixa com você.
+
+**Danilo**, mesmo caso do anterior.
 <img src="prints/Captura de Tela (18).png">
 
-### Tela 3, parte 5:
+### Tela 3, parte 5: (por completude)
+
+Escolher o que mais se encaixa com você.
+
+**Danilo**: tentar usar a tag `GNU-ES` (não sei se dá para fazer isso, tem que verificar), se não der tentar com `GNU`, se não der manter como esta a primeira tag da lista, ou seja, `contribuir`. Para a segunda tag colocar `educação`, e para a terceira `ciência`.
 <img src="prints/Captura de Tela (19).png">
 
 
-### Tela 3, parte 5:
-<img src="prints/Captura de Tela (19).png">
+### Tela 4, parte 1:
 
-
-### Tela , parte :
+Basta ir verificar o e-mail, como esta escrito.
 <img src="prints/Captura de Tela (21).png">
 
 
-### Tela , parte :
+### Tela 4, parte 2:
+
+**Danilo**, observe que essa visualização da caixa de e-mail está bem ruim, seria muito bom refazer isso com a vizualização da caixa de e-mail mostrando o título todo do e-mail (eu não sei onde muda isso, nem o nome disso).
 <img src="prints/Captura de Tela (22).png">
 
 
