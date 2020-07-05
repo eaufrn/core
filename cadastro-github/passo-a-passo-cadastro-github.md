@@ -144,19 +144,24 @@ Parabéns! Agora você tem uma conta no github!
 
 A rigor o seu cadastro já acabou, mas é bem razoálvel que você adicione uma foto de perfil, quando criamos qualquer outra rede social fazermos isso certo (Instagram etc)?! Então, façamos o mesmo.
 
-Clique sobre a sua foto padrão de perfil (a do twitter [já foi um ovo](https://blog.twitter.com/pt_br/topics/product/2017/Avatar-cinza-substitui-ovo-como-imagem-padrao-de-perfis-sem-foto-no-Twit.html) por que a logo deste é um passarinho, não sei/não achei a do github _too sad_). 
+Clique sobre a sua foto padrão de perfil, vai aparecer de forma semelhante a imagem (a do twitter [já foi um ovo](https://blog.twitter.com/pt_br/topics/product/2017/Avatar-cinza-substitui-ovo-como-imagem-padrao-de-perfis-sem-foto-no-Twit.html) por que a logo deste é um passarinho, não sei/não achei a do github _too sad_).
+Clique em `Seu perfil`. **Danilo**, acredito que deveria ter mais um print mostrando o "_hover_ do cursor", ao passar este encima de `Seu perfil` fica azul, talvez mais um print disso.
 <img src="prints/Captura de Tela (27).png">
 
 
-### Tela , parte :
+### Tela 7, parte 1:
 <img src="prints/Captura de Tela (28).png">
 
 
-### Tela , parte :
+### Tela 7, parte 2:
 <img src="prints/Captura de Tela (29).png">
 
 
-### Tela , parte :
+### Tela 7, parte 3: (por completude)
+<img src="prints/Captura de Tela (28).png">
+
+
+### Tela 8, parte 1:
 <img src="prints/Captura de Tela (30).png">
 
 
