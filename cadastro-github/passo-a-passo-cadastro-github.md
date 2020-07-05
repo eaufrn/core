@@ -4,6 +4,8 @@
 
 Basta ir no link [https://github.com/](https://github.com/) para fazer o cadastro.
 
+**Porque tantos prints?** Pode virar uma apresentação com transições bem mais dinâmicas e inclusive ser postado online! Uma coisa de cada vez.
+
 ## Você deverá ver uma tela muito parecida com a seguinte:
 <img src="prints/Captura de Tela (2).png">
 
@@ -157,15 +159,17 @@ Clique em `Seu perfil`. **Danilo**, acredito que deveria ter mais um print mostr
 <img src="prints/Captura de Tela (29).png">
 
 
-### Tela 7, parte 3: (por completude)
+### Tela 7, parte 3: 
+Clique em `Editar perfil` no lado direito e **em verde**. O outro, o do lado esquerdo, não leva para a proxima tela desejada.
 <img src="prints/Captura de Tela (28).png">
 
 
 ### Tela 8, parte 1:
+**Danilo** acho que seria bom ter outro print antes desse, observe que já esta indicando que o mouse já foi clicado em `Editar`.
 <img src="prints/Captura de Tela (30).png">
 
 
-### Tela , parte :
+### Tela 8, parte 2:
 <img src="prints/Captura de Tela (31).png">
 
 
