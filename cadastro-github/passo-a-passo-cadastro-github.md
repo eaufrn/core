@@ -203,7 +203,9 @@ Bem, agora existem muitas coisas que já podem ser feitas. Imagine que isto seja
 
 Bom, acho que já é suficiente. Então isso é tudo, pessoal.
 
-**Fim**
+TODO: Como se centraliza coisas em Markdown que usa html?
+<img src="https://media1.tenor.com/images/e83fc8c909303d47f111714e5d6d95d8/tenor.gif?itemid=14824246" />
+
 
 ## Extras
 
