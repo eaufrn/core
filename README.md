@@ -25,6 +25,8 @@ E esta segunda parte:
 
 - Álvaro Justen, vídeo: [[PyBR14] Brasil.IO: Dados abertos para mais democracia - Álvaro Justen](https://www.youtube.com/watch?v=MZZFmucRxoY), tempo: 24 minutos.
 
+Citação extra sobre cadeia de suprimentos: https://www.youtube.com/embed/2ug1rze_9Wc?start=699&end=734&version=3 
+
 Ou seja, um total de: 19 + 18 + 12 + 24 = 73 minutos = 1 hora e 13 minutos.
 
 
